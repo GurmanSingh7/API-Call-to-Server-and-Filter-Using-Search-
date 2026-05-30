@@ -2,7 +2,7 @@ let users = [];
  
 fetch("https://dummyjson.com/users")   
     .then(res => res.json())      
-    .then(data => {  
+    .then(data => {   
         console.log(data);     
         users = data.users;         
         displayUsers(users);      
