@@ -1,6 +1,6 @@
 let users = [];
  
-fetch("https://dummyjson.com/users")
+fetch("https://dummyjson.com/users") 
     .then(res => res.json())   
     .then(data => {  
         console.log(data);    
