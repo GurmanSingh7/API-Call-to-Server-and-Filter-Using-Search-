@@ -7,7 +7,7 @@ fetch("https://dummyjson.com/users")
         users = data.users;      
         displayUsers(users);      
     }); 
-
+ 
 function displayUsers(data) {
     const list = document.getElementById("list"); 
     list.innerHTML = "";
