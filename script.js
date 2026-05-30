@@ -4,7 +4,7 @@ fetch("https://dummyjson.com/users")
     .then(res => res.json())
     .then(data => {
         console.log(data);
-        users = data.users;  
+        users = data.users;   
         displayUsers(users);
     });
 
