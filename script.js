@@ -9,7 +9,7 @@ fetch("https://dummyjson.com/users")
     });
 
 function displayUsers(data) {
-    const list = document.getElementById("list");
+    const list = document.getElementById("list"); 
     list.innerHTML = "";
 
     data.forEach(user => {
