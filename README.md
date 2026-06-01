@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F7FF,50:7B00FF,100:FF0080&text=Garry's%20Developers'%20Team&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=⚡+NEXT+GEN+API+ENGINEERING+⚡;🚀+BUILDING+THE+FUTURE+OF+SOFTWARE+🚀;💎+Garry's+Developers'+Team+PVT.+LTD.+💎"/>
 
 <p align="center">
