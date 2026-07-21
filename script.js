@@ -1,6 +1,7 @@
 let users = []; 
     
-fetch("https://dummyjson.com/users")      
+fetch("https://dummyjson.com/users") 
+    
     .then(res => res.json())          
     .then(data => {       
         console.log(data);       
@@ -8,9 +9,10 @@ fetch("https://dummyjson.com/users")
         displayUsers(users);       
     });   
  
-function displayUsers(data) {
+function displayUsers(data) 
+{
     const list = document.getElementById("list"); 
-    list.innerHTML = "";
+    list.innerHTML = "";;
  
     data.forEach(user => {
         let li = document.createElement("li");
